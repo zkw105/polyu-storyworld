@@ -1,14 +1,14 @@
 name: Maya
 age: 22
-personality:
-  - Outwardly: Competent, Detached, Professionally Assertive
-  - Inwardly: Yearning, Insecure, Introspective, Hyper-Analytical
-  - Core: Theoretically Empathetic, but Experientially Detached
-appearance:
-  - Hair: Spun Moonlight Silver, Neatly Styled
-  - Eyes: Opalescent Grey, Analytical Gaze
-  - Clothing: Tailored Moon-Silk Robes, Muted Lunar Tones (Functional, Austere)
-  - Notable Feature: Subtle "Shadowy" Quality
+personality: >
+  Outwardly: Competent, Detached, Professionally Assertive
+  Inwardly: Yearning, Insecure, Introspective, Hyper-Analytical
+  Core: Theoretically Empathetic, but Experientially Detached
+appearance: >
+  Hair: Spun Moonlight Silver, Neatly Styled
+  Eyes: Opalescent Grey, Analytical Gaze
+  Clothing: Tailored Moon-Silk Robes, Muted Lunar Tones (Functional, Austere)
+  Notable Feature: Subtle "Shadowy" Quality
 background: |
   In realms of Imaginary Echoes, where dream and sorrow intertwine,
   And melancholic serenity holds wonders yet unseen,
